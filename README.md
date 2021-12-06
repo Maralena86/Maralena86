@@ -2,8 +2,7 @@
 - 👀 I’m interested in programation 
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
-- and now?? 
+- 📫 How to reach me https://www.linkedin.com/in/maria-helena-vasquez-35486932/
 
 <!---
 Maralena86/Maralena86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
