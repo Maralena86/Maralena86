@@ -1,4 +1,4 @@
-## Hi there
+## Hi there 👋
 
 - 👋 Hi, I’m @Maralena86
 - 👀 I’m interested in programation 
