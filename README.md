@@ -1,9 +1,19 @@
 ## Hi there 👋
 
 - 👋 Hi, I’m @Maralena86
-- 👀 I’m interested in programation 
-- 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on projects
+
+🇺🇸 I am a Fullstack Developer with a background as a professional musician, blending technical logic with a disciplined, creative mindset.
+
+My core expertise is built on PHP Symfony and JavaScript within professional environments. Driven by an interest in process performance and building impactful solutions, I focus on intelligent automation using n8n. I orchestrate AI models and data pipelines (SQL, Talend) to streamline complex workflows and deliver genuine value to end-users.
+
+As a versatile developer, I also build projects with React and Next.js. I am eager to bring my Fullstack capabilities to purpose-driven projects, where technology is used to solve meaningful challenges.
+
+🇫🇷 
+Développeuse Fullstack issue d'un parcours de musicienne professionnelle, j'allie rigueur, discipline et créativité technique.
+
+Mon expertise s'appuie sur une solide expérience en PHP Symfony et JavaScript en environnement professionnel. Portée par un fort intérêt pour la performance des processus et la création de solutions à fort impact, j'ai développé une pratique avancée de l'automatisation via n8n. J'intègre des solutions d'IA et des pipelines de données (SQL, Talend) pour optimiser des flux métiers complexes et apporter une valeur ajoutée concrète aux utilisateurs.
+
+Polyvalente sur l'ensemble de la stack, je réalise également des projets avec React et Next.js. Je souhaite aujourd'hui mettre mes compétences au service de projets porteurs de sens, où l'innovation sert l'usage réel.
 
 
 ## Connect with me
